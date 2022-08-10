@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning...Web development.
--  Along with-->...C, C++ and javascript.
+-  Along with-->...C, C++,mysql,node.js and javascript.
 - 👯 I’m looking to collaborate on ...projects.
 - 🤔 I’m looking for help with ... website development.
 - 💬 Ask me about ...Programming and web development.
